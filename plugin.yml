@@ -1,9 +1,9 @@
-name: Multi-Network Plots
+name: MNetwork-Plots
 main: MyPlot\MyPlot
 version: 1.0
 load: STARTUP
-api: 1.0.0
-author: Wies and Exxarion
+api: [2.0.0,1.13.0]
+author: SheepDEV
 description: Plot and protection plugin
 softdepend: [EconomyAPI, PocketMoney]
 
